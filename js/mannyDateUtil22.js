@@ -8,7 +8,6 @@ class MannyDateUtil{
         // console.log('hhhh')
     }
 
-
     /**
      * 格式化数字: 数字num用length长度返回，默认长度是2。如num=2，length=7，则返回结果是0000002
      * @param num 需要格式化的数字
